@@ -1,2 +1,2 @@
 # bytedance-oscomp
-bytedance os-competition-info
+bytedance os-competition-project
